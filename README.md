@@ -8,8 +8,10 @@ Set Destination  Double Right-click
 Set Walls Left-click
 Remove Walls Right-click
 ## Images
-![](images/path_manual.png)
-![](images/path_kruskals.png)
+### Manual maze creation with Djikstra's Algorithm
+![](images/path_manual.PNG)
+### Kruskal's alagorithm maze creation with A* Star Search Algorithm
+![](images/path_kruskals.PNG)
 ## Finer Details
 - Both the algorithms i.e Djikstra's and A Star Search support pathfinding in a diagonal manner.
 - The speed of the visualization can be specified by the user according to their preferences. The final output can also be obtained directly.
